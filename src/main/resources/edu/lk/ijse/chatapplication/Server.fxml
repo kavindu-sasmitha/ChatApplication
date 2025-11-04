@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="TOP_CENTER" xmlns:fx="http://javafx.com/fxml">
+    <TextArea fx:id="chatArea" editable="false" prefHeight="480" prefWidth="680"
+              style="-fx-font-family: Consolas;"/>
+</VBox>
